@@ -2,3 +2,22 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+.container {
+    display: flex;
+}
+
+.d-flex {
+    display: flex;
+}
+
+svg {
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    width: 270px;
+    height: 280px;
+    box-shadow: 0px 0px 21px 2px #DEDEDE;
+}
